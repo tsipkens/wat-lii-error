@@ -1,5 +1,5 @@
 # wat-lii-error
 
-Deprecated version of pgs-error.
+Deprecated version of pgm-error.
 
-This repo has moved to [github.com/tsipkens/pgs-error](https://github.com/tsipkens/pgs-error).
+This repo has moved to [github.com/tsipkens/pgm-error](https://github.com/tsipkens/pgm-error).
